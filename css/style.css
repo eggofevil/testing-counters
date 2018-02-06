@@ -2,7 +2,7 @@
     text-align: center;
     margin: 0;
     box-sizing: border-box;
-    font-size: 0;
+    /*font-size: 0;*/
 }
 h1 {
     font-size: 5vh;
