@@ -11,10 +11,18 @@ article {
     display: block;
     height: 100vh;
 }
-#yandex-metrics-img {
+
+#yandex-metrics {
+    display: inline-block;
+    font-size: 5vh;
+    background: red;
+    /*width: 30%;*/
+    /*height: 10vh;*/
     margin: 0 auto;
     margin-top: 40vh;
-    width: 176px;
-    height: 61px; 
-    border: 2px solid red;
+}
+#yandex-metrics-img {
+    width:176px;
+    height:61px; 
+    border:0;
 }
