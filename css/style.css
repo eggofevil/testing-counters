@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 0;
+}
+h1 {
+    font-size: 5vh;
+}
+article {
+    display: block;
+    height: 100vh;
+}
+
+#yandex-metrics {
+    font-size: 5vh;
+    background: red;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 40vh;
+    height: 10vh;
+}
